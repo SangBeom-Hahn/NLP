@@ -11,7 +11,7 @@
     - TF_Data_API [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_Data_API.ipynb)]
     
 02. NLP_Introduction
-    - TF_Tutorial [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/text_preprocessing_%EC%8B%A4%EC%8A%B5.ipynb)]
+    - Text_Preprocessing [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/text_preprocessing_%EC%8B%A4%EC%8A%B5.ipynb)]
 
 
 
