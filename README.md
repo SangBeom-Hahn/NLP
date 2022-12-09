@@ -5,7 +5,7 @@
 ## Contents
 
 01. tensorflow-2.0-tutorial 
--- tf-tutorial[[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_%EA%B3%B5%EC%8B%9D_%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb)]
+    -- tf-tutorial[[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_%EA%B3%B5%EC%8B%9D_%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb)]
 - keras-tutorial
 - td-data-api
 
