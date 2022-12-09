@@ -1,5 +1,5 @@
 # NLP
-*To be natural language processing Mater!!
+*To be natural language processing Master!!
 
 
 ## Contents
