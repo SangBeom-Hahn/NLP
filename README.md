@@ -8,7 +8,7 @@
 
     - TF_Tutorial [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tensorflow_official_tutorial.ipynb)]
     - Keras_Tutorial [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf%2C_keras_lecture.ipynb)]
-    - TF_Data_API
+    - TF_Data_API [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_Data_API.ipynb)]
     
 02. NLP_Introduction
 
