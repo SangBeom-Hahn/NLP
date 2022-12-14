@@ -15,10 +15,12 @@
     - Language_Model [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/%EC%96%B8%EC%96%B4_%EB%AA%A8%EB%8D%B8_%EC%8B%A4%EC%8A%B5.ipynb)]
 
 03. NLP_Example
-    - Word_Embedding_1 [[Colab]()]
-    - Word_Embedding_2 [[Colab]()]
+    - Word_Embedding_1 [[X]()]
+    - Word_Embedding_2 [[X]()]
     - Word_Embedding_3 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_03_Word_Embedding_2.ipynb)]
 
+04. NLP_Book
+    - Chapter 1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
 
 
 ## How to Run
