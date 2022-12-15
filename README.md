@@ -21,6 +21,7 @@
 
 04. NLP_Book
     - Chapter 1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
+    - Chapter 2.1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
 
 
 ## How to Run
