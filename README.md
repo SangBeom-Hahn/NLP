@@ -22,6 +22,8 @@
 04. NLP_Book
     - Chapter 1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
     - Chapter 2.1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
+    - Chapter 2.2 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_2_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
+
 
 
 ## How to Run
@@ -34,6 +36,7 @@ jupyter lab
 01. [TensorFlow](https://www.tensorflow.org/tutorials)
 02. [SuanLab](www.suanlab.com)
 3. [Mcode](https://mcode.co.kr/)
+4. [Wikidocs](https://wikidocs.net/book/2155)
 
 
 ## Author
