@@ -23,7 +23,7 @@
     - Chapter 1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
     - Chapter 2.1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
     - Chapter 2.2 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_2_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
-
+    - Chapter 4 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/4_%EB%8B%A8%EC%96%B4%EC%9D%98_%ED%91%9C%ED%98%84.ipynb)]
 
 
 ## How to Run
