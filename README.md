@@ -14,7 +14,7 @@
     - Text_Preprocessing [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/text_preprocessing_%EC%8B%A4%EC%8A%B5.ipynb)]
     - Language_Model [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/%EC%96%B8%EC%96%B4_%EB%AA%A8%EB%8D%B8_%EC%8B%A4%EC%8A%B5.ipynb)]
 
-03. NLP_Example
+03. NLP_Practice
     - Word_Embedding_1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_02_Word_Embedding_1.ipynb)]
     - Word_Embedding_2 [[X]()]
     - Word_Embedding_3 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_03_Word_Embedding_2.ipynb)]
