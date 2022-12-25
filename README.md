@@ -20,10 +20,10 @@
     - Word_Embedding_3 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_03_Word_Embedding_2.ipynb)]
 
 04. NLP_Book
-    - Ready to NLP [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
-    - Text preprocessing-1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
-    - Text preprocessing-2 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_2_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
-    - Count based word Representation [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/4_%EB%8B%A8%EC%96%B4%EC%9D%98_%ED%91%9C%ED%98%84.ipynb)]
+    - Ready to NLP(CH1) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/1_nlp_%EC%A4%80%EB%B9%84.ipynb)]
+    - Text preprocessing-1(CH2) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
+    - Text preprocessing-2(CH2) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_2_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
+    - Count based word Representation(CH4) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/4_%EB%8B%A8%EC%96%B4%EC%9D%98_%ED%91%9C%ED%98%84.ipynb)]
 
 
 ## How to Run
