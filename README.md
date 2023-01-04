@@ -16,7 +16,6 @@
 
 03. NLP_Practice
     - Word_Embedding_1 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_02_Word_Embedding_1.ipynb)]
-    - Word_Embedding_2 [[X]()]
     - Word_Embedding_3 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_example_to_NLP/NLP_Tutorial_03_Word_Embedding_2.ipynb)]
 
 04. NLP_Book
@@ -43,6 +42,6 @@ jupyter lab
 
 👤 **SangBoem-Hahn**
 
-- Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
-- Blog : [Tistory(nlp)](https://hsb422.tistory.com/category/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%28%EC%8B%AC%ED%99%94%29%5D)
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(nlp)](https://hsb422.tistory.com/category/%5BAI%5D/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%28%EC%8B%AC%ED%99%94%29%5D?page=2)
 ---
