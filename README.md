@@ -23,7 +23,7 @@
     - Text preprocessing-1(CH2) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_1_%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
     - Text preprocessing-2(CH2) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/2_2_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)]
     - Count based word Representation(CH4) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/4_%EB%8B%A8%EC%96%B4%EC%9D%98_%ED%91%9C%ED%98%84.ipynb)]
-
+    - similarity(CH5) [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/nlp_book/5_%EB%B2%A1%ED%84%B0%EC%9D%98_%EC%9C%A0%EC%82%AC%EB%8F%84.ipynb)]
 
 ## How to Run
 ```
