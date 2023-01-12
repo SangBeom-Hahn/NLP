@@ -34,7 +34,7 @@ jupyter lab
 
 01. [TensorFlow](https://www.tensorflow.org/tutorials)
 02. [SuanLab](www.suanlab.com)
-3. [Mcode](https://mcode.co.kr/)
+03. [Mcode](https://mcode.co.kr/)
 4. [Wikidocs](https://wikidocs.net/book/2155)
 
 
