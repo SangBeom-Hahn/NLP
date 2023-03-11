@@ -8,6 +8,7 @@ To be natural language processing Master!!
     - TF_Tutorial [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tensorflow_official_tutorial.ipynb)]
     - Keras_Tutorial [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf%2C_keras_lecture.ipynb)]
     - TF_Data_API [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_Data_API.ipynb)]
+    - TF_Data_API2 [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/tf_2.0_tutorial/tf_data_pipeline_master.ipynb)]
     
 02. NLP_Introduction
     - Text_Preprocessing [[Colab](https://github.com/SangBeom-Hahn/NLP/blob/main/metacode_introduction_to_NLP/text_preprocessing_%EC%8B%A4%EC%8A%B5.ipynb)]
